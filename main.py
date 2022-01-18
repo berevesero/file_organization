@@ -1,7 +1,7 @@
 import os
 import re
 
-DIRECTORY = '/Users/sedir/pCloud Drive/Automatic Upload/Skromeloo'
+DIRECTORY = ''
 
 
 def move_file(directory, file):
