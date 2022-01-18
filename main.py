@@ -1,7 +1,7 @@
 import os
 import re
 
-DIRECTORY = ''
+DIRECTORY = 'PATH/TO/DIRECTORY'
 
 
 def move_file(directory, file):
